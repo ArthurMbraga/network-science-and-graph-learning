@@ -14,8 +14,6 @@ data/
     Baylor93.gml
     ...
 images/
-link_prediction_results.csv
-link_prediction_results.txt
 project.ipynb
 ```
 
